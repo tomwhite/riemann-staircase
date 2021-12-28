@@ -2,7 +2,7 @@
 
 Notebooks for computing approximations to the prime counting function using Riemann's formula.
 
-Try an interactive visualization [here]().
+Try an interactive visualization [here](https://observablehq.com/@tomwhite/riemann-staircase).
 
 References
 
